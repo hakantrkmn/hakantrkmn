@@ -8,7 +8,9 @@ system migration, with a strong focus on scalable and maintainable systems, perf
 compatibility.
 
 ## Contact Me
-<p><a href="www.linkedin.com/in/hakan-turkmen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-turkmen)
+
 
 ## Skills
 
