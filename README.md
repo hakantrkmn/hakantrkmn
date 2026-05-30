@@ -45,7 +45,7 @@ Results-driven Software Developer with 5+ years of diverse experience across bac
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=hakantrkmn&theme=flat&margin-w=15" />
+<img src="https://trophy.ryglcloud.net/?username=hakantrkmn&theme=flat&margin-w=15" />
 
 ---
 
